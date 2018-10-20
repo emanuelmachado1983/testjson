@@ -151,5 +151,8 @@
       "tasaInteres" : "BADLAR",
       "diasPlazo" : 31
     } 
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
